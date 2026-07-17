@@ -1,0 +1,8 @@
+{
+    "title": "Big Sister",
+    "description": "Play against or as Ruby, BF's big sister",
+    "author": "Uzy",
+    "api_version": "0.8.4",
+    "mod_version": "1.0.0",
+    "license": "Apache2.0"
+}
