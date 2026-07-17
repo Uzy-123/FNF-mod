@@ -1,0 +1,34 @@
+{
+  "version": "1.0.0",
+  "name": "ruby",
+  "renderType": "sparrow",
+  "assetPath": "shared/images/characters/Ruby",
+  "singTime": 4.0,
+  "animations": [
+    {
+      "name": "idle",
+      "prefix": "idle",
+      "frameIndices": [0, 1]
+    },
+    {
+      "name": "singLEFT",
+      "prefix": "singLEFT",
+      "frameIndices": [0]
+    },
+    {
+      "name": "singDOWN",
+      "prefix": "singDOWN",
+      "frameIndices": [0]
+    },
+    {
+      "name": "singUP",
+      "prefix": "singUP",
+      "frameIndices": [0]
+    },
+    {
+      "name": "singRIGHT",
+      "prefix": "singRIGHT",
+      "frameIndices": [0]
+    }
+  ]
+}
