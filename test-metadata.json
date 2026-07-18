@@ -1,0 +1,56 @@
+{
+ "version": "2.2.4",
+ "songName": "Test",
+ "artist": "KawaiSprite",
+ "charter": "MtH, Naxs Recharted",
+ "divisions": 96,
+ "looped": false,
+ "offsets": {
+  "instrumental": 0,
+  "altInstrumentals": {  },
+  "vocals": {  },
+  "altVocals": {  }
+ },
+ "playData": {
+  "songVariations": [],
+  "difficulties": [
+   "easy",
+   "normal",
+   "hard"
+  ],
+  "characters": {
+   "player": "bf",
+   "girlfriend": "gf",
+   "opponent": "ruby",
+   "instrumental": "",
+   "altInstrumentals": [],
+   "opponentVocals": [
+    "dad"
+   ],
+   "playerVocals": [
+    "bf"
+   ]
+  },
+  "stage": "mainStage",
+  "noteStyle": "funkin-ruby",
+  "ratings": {
+   "easy": 3,
+   "normal": 4,
+   "hard": 10
+  },
+  "previewStart": 0,
+  "previewEnd": 0
+ },
+ "generatedBy": "Friday Night Funkin' - v0.8.1",
+ "timeFormat": "ms",
+ "timeChanges": [
+  {
+   "t": 0,
+   "b": 0,
+   "bpm": 150,
+   "n": 4,
+   "d": 4,
+   "bt": [4, 4, 4, 4]
+  }
+ ]
+}
