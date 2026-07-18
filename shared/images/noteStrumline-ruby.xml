@@ -2,7 +2,7 @@
 <!--
 Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
 -->
-<TextureAtlas imagePath="noteStrumline-pico.png" width="1428" height="1333">
+<TextureAtlas imagePath="noteStrumline-ruby.png" width="1428" height="1333">
 	<SubTexture name="confirmDown0001" x="233" y="1" width="226" height="224" frameX="-2" frameY="-2" frameWidth="235" frameHeight="230"/>
 	<SubTexture name="confirmDown0004" x="646" y="911" width="210" height="210" frameX="-10" frameY="-9" frameWidth="235" frameHeight="230"/>
 	<SubTexture name="confirmDown0003" x="433" y="911" width="210" height="210" frameX="-10" frameY="-9" frameWidth="235" frameHeight="230"/>
