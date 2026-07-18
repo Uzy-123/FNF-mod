@@ -2,7 +2,7 @@
 <!--
 Created with Funkin Packer v0.1.3 https://neeeoo.github.io/funkin-packer/
 -->
-<TextureAtlas imagePath="texture.png" width="620" height="552">
+<TextureAtlas imagePath="holdCoverPurple-ruby.png" width="620" height="552">
 	<SubTexture name="holdCoverPurple0001" x="483" y="1" width="136" height="104" frameX="-95" frameY="-97" frameWidth="300" frameHeight="400"/>
 	<SubTexture name="holdCoverStartPurple0001" x="416" y="205" width="93" height="91" frameX="-111" frameY="-108" frameWidth="300" frameHeight="400"/>
 	<SubTexture name="holdCoverPurple0004" x="416" y="299" width="77" height="35" frameX="-122" frameY="-134" frameWidth="300" frameHeight="400"/>
