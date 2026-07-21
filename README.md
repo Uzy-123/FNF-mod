@@ -23,7 +23,7 @@ BF: Do you want to do a Rap Battle like in the good old days?
 Ruby: Expecting a "no" would be a mistake, bro.  
 
 - Mid-song 1
-GF: *pick up his phone and call someone*  
+GF: *pick up her phone and call someone*  
 GF: Hey Whitty, can you come to the park please?  
 Ruby: WHITTY !?  
 BF: Whitty !  
